@@ -1,4 +1,4 @@
-# Entropy III Z v1.1
+# Entropy III Z v1.2
 # Courtesy of Broodwarai.com
 # To be used with the BWAI Launcher
 # stat_txt.tbl entry 1344: Zerg Expansion Custom Level<0>
@@ -9115,6 +9115,7 @@ pabz(0, 101, bwscript):
 	defenseuse_aa(1, scourge)
 	defenseuse_gg(1, ultralisk)
 	stop()
+
 
 
 
