@@ -1,4 +1,4 @@
-# Entropy III T v1.1
+# Entropy III T v1.2
 # Courtesy of Broodwarai.com
 # To be used with the BWAI Launcher
 #=========================

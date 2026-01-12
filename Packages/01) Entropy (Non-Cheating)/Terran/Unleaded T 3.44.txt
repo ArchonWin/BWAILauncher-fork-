@@ -1,4 +1,4 @@
-# Unleaded Terran 3.43 , by Archon_Wing
+# Unleaded Terran 3.44 , by Archon_Wing
 # Courtesy of Broodwarai.com
 # Table of Contents
 # Much thanks to Equalizer for the "accelerated" script concept
