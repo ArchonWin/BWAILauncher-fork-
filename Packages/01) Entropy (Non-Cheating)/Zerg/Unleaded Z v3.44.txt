@@ -1,4 +1,4 @@
-# Unleaded Zerg 3.43
+# Unleaded Zerg 3.44
 # Courtesy of Broodwarai.com
 # Island Scripts belong to Myk
 ZMCx(1344, 101, aiscript):
@@ -2062,3 +2062,4 @@ stop()
 wait(100)
 stop()
 	
+
