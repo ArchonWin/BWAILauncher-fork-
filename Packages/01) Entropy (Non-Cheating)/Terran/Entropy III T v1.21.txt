@@ -10931,7 +10931,7 @@ stop()
 	clear_combatdata()
 	goto(deep 6)
 	
-		--tvp bio mech--
+	--tvp bio mech--
 	#- 1 fact expo to mech
 	multirun(tvz tanks)
 	multirun(stim_range)
@@ -10966,6 +10966,7 @@ stop()
 	wait_buildstart(2, barracks)
 	build(3, barracks, 80)
 	train(3, siege_tank)
+	wait_buildstart(3, barracks)
 	build(4, barracks, 80)
 	multirun(constant tanks)
 	wait(1)
@@ -10977,7 +10978,7 @@ stop()
 	attack_add(4, medic)
 	attack_add(1, firebat)
 	attack_add(8, siege_tank)
-	wait(1200)
+	#wait(1200)
 	goto(tvp_mm 4)
 	
 	--constant tanks--
