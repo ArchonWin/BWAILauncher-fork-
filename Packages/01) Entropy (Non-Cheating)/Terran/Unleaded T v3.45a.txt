@@ -3366,4 +3366,5 @@ stop()
 	--island vults--
 	train(4, vulture)
 	wait_force(4, vulture)
+
 	stop()
