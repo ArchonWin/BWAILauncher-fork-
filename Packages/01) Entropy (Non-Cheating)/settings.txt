@@ -11,13 +11,13 @@
 	'targetmpq':u'PKGDIR:Entropy3.exe',\
 	'targetexe':None,\
 	'previous':{\
-		'Zerg':'Unleaded Z v3.44',\
-		'Protoss':'Unleaded P v3.44',\
+		'Zerg':'Entropy III Z v1.2',\
+		'Protoss':'Entropy III P v1.2',\
 		'Terran':'Entropy III T v1.22',\
 	},\
 	'entropyze':{\
-		'Zerg':False,\
-		'Protoss':False,\
-		'Terran':False,\
+		'Zerg':True,\
+		'Protoss':True,\
+		'Terran':True,\
 	},\
 }
